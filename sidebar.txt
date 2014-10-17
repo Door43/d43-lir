@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lir:home|Door43 (lir)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lir|d43-lir repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lir/archive/master.zip|d43-lir.zip]]
+
+**Recent Changes**
+{{changes>ns = lir}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lir|Ethnologue data]]
+
